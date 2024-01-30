@@ -23,7 +23,7 @@ import Github, { githubInfoLoader } from './components/Github.jsx'
 //         path : 'about',
 //         element : <About/>
 //       },
-//       {
+//       {`
 //         path : 'contact',
 //         element : <Contact/>
 //       }
